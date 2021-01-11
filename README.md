@@ -14,13 +14,13 @@
 
 ## Books
 ### General knowledge
-- [The intelligent investor - Benjamin Graham](https://amzn.to/3i26qMJ) **ASIN: 0060555661**
+- [The intelligent investor - Benjamin Graham](https://amzn.to/3i26qMJ) **ISBN: 9780060555665**
 
 ### ETF
-- [Stay lazy and get rich! - Leonardo Lazinelli](https://amzn.to/38xhkqt) **ASIN B08LN5KRFJ**
+- [Stay lazy and get rich! - Leonardo Lazinelli](https://amzn.to/38xhkqt) **ISBN: 979-8694958295**
 
 > ⚠️ **Links to the books are Amazon Affiliates' links**  
-I've added the ASIN so you can look for the book on your favourite store.
+I've added the ISBN so you can look for the book on your favourite store.
 
 ## Courses
 - [Financial Markets](https://www.coursera.org/learn/financial-markets-global/home/welcome) on Coursera
