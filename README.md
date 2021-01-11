@@ -14,10 +14,14 @@
 
 ## Books
 ### General knowledge
-- [The intelligent investor - Benjamin Graham](https://amzn.to/3i26qMJ) **ISBN: 9780060555665**
+
+- **The intelligent investor - Benjamin Graham** [EN](https://amzn.to/3oCPKOe) ISBN: `9780060555665`
+- **I quattro pilastri dell'investimento - William J. Bernstein** [IT](https://amzn.to/3oB2vJ3) ISBN: `8863662959`
+- **A spasso per Wall Street - Burton G. Malkiel** [IT](https://amzn.to/3ifWIql) ISBN: `8820372894`
+- **Il piccolo libro dell'investimento - John C. Bogle** [IT](https://amzn.to/35wtE8G) ISBN: `8863662495`
 
 ### ETF
-- [Stay lazy and get rich! - Leonardo Lazinelli](https://amzn.to/38xhkqt) **ISBN: 979-8694958295**
+- **Stay lazy and get rich! - Leonardo Lazinelli** [IT](https://amzn.to/38xDitG) ISBN: `979-8694958295`
 
 > ⚠️ **Links to the books are Amazon Affiliates' links**  
 I've added the ISBN so you can look for the book on your favourite store.
