@@ -19,5 +19,8 @@
 ### ETF
 - [Stay lazy and get rich! - Leonardo Lazinelli](https://amzn.to/38xhkqt) **ASIN B08LN5KRFJ**
 
+> ⚠️ **Links to the books are Amazon Affiliates' links**  
+I've added the ASIN so you can look for the book on your favourite store.
+
 ## Courses
 - [Financial Markets](https://www.coursera.org/learn/financial-markets-global/home/welcome) on Coursera
