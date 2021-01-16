@@ -23,6 +23,9 @@
 ### ETF
 - **Stay lazy and get rich! - Leonardo Lazinelli** [[IT](https://amzn.to/38xDitG)] ISBN: `979-8694958295`
 
+### 
+- **Conto di deposito la guida completa: Investire e dormire a sonni tranquilli. - Lorenzo D.** [[IT](https://www.amazon.it/dp/B08MCDDGZY)] ASIN: `B08MCDDGZY`
+
 > ⚠️ **Links to the books are Amazon Affiliates' links**  
 I've added the ISBN so you can look for the book on your favourite store.
 
